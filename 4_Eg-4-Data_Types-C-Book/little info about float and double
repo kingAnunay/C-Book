@@ -1,0 +1,2 @@
+Float has 32 bit precision for floating number (8 bits for the exponent, and 23* for the value), i.e. float has 7 decimal digits of precision.
+Double has more precision compared float but it occupies twice memory compared to float data type.
